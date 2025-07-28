@@ -67,7 +67,7 @@
 
   <section id="contacto">
     <h2>Contáctanos</h2>
-    <p>O también puedes enviarnos un correo directamente a: <a href="mailto:jardinesmunozservicio@gmail.com">jardinesmunozservicio@gmail.com</a></p>
+    <p>puedes enviarnos un correo directamente a: <a href="mailto:jardinesmunozservicio@gmail.com">jardinesmunozservicio@gmail.com</a></p>
   </section>
 
   <footer>
