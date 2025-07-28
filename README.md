@@ -67,12 +67,6 @@
 
   <section id="contacto">
     <h2>Contáctanos</h2>
-    <form class="contacto">
-      <input type="text" name="nombre" placeholder="Tu nombre" required />
-      <input type="email" name="email" placeholder="Tu correo electrónico" required />
-      <textarea name="mensaje" rows="5" placeholder="Tu mensaje" required></textarea>
-      <button type="submit">Enviar</button>
-    </form>
     <p>O también puedes enviarnos un correo directamente a: <a href="mailto:jardinesmunozservicio@gmail.com">jardinesmunozservicio@gmail.com</a></p>
   </section>
 
